@@ -125,8 +125,8 @@ best hyperparameters, and saves them to `results.csv`.
 ## How to Run
 
 ```bash
-git clone https://github.com/khchui05/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/khchui05/classifier-comparison-rf-svm-knn.git
+cd classifier-comparison-rf-svm-knn
 pip install -r requirements.txt
 jupyter notebook 01-ClassifierComparison.ipynb
 ```
